@@ -1,2 +1,7 @@
 # Add one deployed website URL per line. Keep each URL on its own line.
-# Example: https://your-project.onrender.com
+# Remove any URL you no longer want monitored.
+https://black-panda.onrender.com/
+https://nexuschat-9vu9.onrender.com/
+https://abhi-nahi-socha.onrender.com/
+https://stark-ai-assistant.onrender.com/
+https://stark-ai-brain.onrender.com/
