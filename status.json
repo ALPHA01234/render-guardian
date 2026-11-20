@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-11-20T08:36:27.804230+00:00",
+  "checked_at": "2026-11-20T17:14:20.583079+00:00",
   "sites": [
     {
       "url": "https://black-panda.onrender.com/",
       "name": "black-panda.onrender.com",
       "ok": false,
       "reachable": true,
-      "ms": 485,
+      "ms": 236,
       "message": "HTTP 503 \u2014 server reachable, but returned an error"
     },
     {
@@ -14,7 +14,7 @@
       "name": "nexuschat-9vu9.onrender.com",
       "ok": false,
       "reachable": true,
-      "ms": 470,
+      "ms": 244,
       "message": "HTTP 503 \u2014 server reachable, but returned an error"
     },
     {
@@ -22,7 +22,7 @@
       "name": "abhi-nahi-socha.onrender.com",
       "ok": false,
       "reachable": true,
-      "ms": 322,
+      "ms": 222,
       "message": "HTTP 503 \u2014 server reachable, but returned an error"
     },
     {
@@ -30,7 +30,7 @@
       "name": "stark-ai-assistant.onrender.com",
       "ok": true,
       "reachable": true,
-      "ms": 293,
+      "ms": 233,
       "message": "HTTP 200"
     },
     {
@@ -38,7 +38,7 @@
       "name": "stark-ai-brain.onrender.com",
       "ok": false,
       "reachable": true,
-      "ms": 332,
+      "ms": 177,
       "message": "HTTP 503 \u2014 server reachable, but returned an error"
     }
   ]
